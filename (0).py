@@ -45,7 +45,7 @@ import random
 # print(num)
 # i=1
 # while i<=100:
-#     print(f"张猿给才能像表白的第{i}天")
+#     print(f"猿给才能像表白的第{i}天")
 #     i=i+1
 for a in range(1,101,3):
-    print(f"张猿给才能像玫瑰花的第{a}天")
+    print(f"猿给才能像玫瑰花的第{a}天")
