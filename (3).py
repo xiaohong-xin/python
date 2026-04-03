@@ -27,7 +27,7 @@
 # )
 # print(t1)
 # print(t1.index('shanghai'))
-#23170703030 高入洪
+
 # print(t1.count('a'))
 # print(len(t1))
 # for i in t2:
