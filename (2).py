@@ -27,7 +27,7 @@ import random
 # print(data.mean())
 # print(data.std())
 # print(data.min())
-#23170703030 高入洪
+
 # print(data.max())
 # print(data.sum(axis=0))
 # print(data.sum(axis=1))
