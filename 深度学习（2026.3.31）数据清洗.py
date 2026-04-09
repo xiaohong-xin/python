@@ -23,6 +23,7 @@ IQR=Q3-Q1
 l=Q1-1.5*IQR
 u=Q3+1.5*IQR
 print(df_raw[(df_raw['english_score']<l)|(df_raw['english_score']>u)])
+print(df_raw.dtypes)
 #众数处理缺失值
 df_clean=df_raw.copy()
 gender_modo=df_clean['gender'].mode()[0]
